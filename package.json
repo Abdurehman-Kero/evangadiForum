@@ -9,7 +9,7 @@
     "client": "npm start --prefix client",
     "start": "node server.js"
   },
-  "author": "Tsegazeab",
+  "author": "kr",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^2.4.3",
